@@ -1,5 +1,4 @@
-/*This source code copyrighted by Lazy Foo' Productions (2004-2020)
-and may not be redistributed without written permission.*/
+// This is SDL2 Base u can use for free
 
 //Using SDL, SDL_image, standard IO, and strings
 #include <SDL2\SDL.h>
